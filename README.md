@@ -2,10 +2,10 @@
 
 
 ## nombre de equipo\
-- 'equipo'
+- equipo
 
 ## integrantes
--'Agustin Aused'
--'Pedro Esteban'
--'Axel Gaggino'
--'Axel Gregoris'
+- Agustin Aused
+- Pedro Esteban
+- Axel Gaggino
+- Axel Gregoris
