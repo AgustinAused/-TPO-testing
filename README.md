@@ -1,7 +1,7 @@
 # TPO-testing
 
 
-## nombre de equipo\
+## nombre de equipo
 - equipo
 
 ## integrantes
