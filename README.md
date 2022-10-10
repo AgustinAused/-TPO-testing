@@ -1,8 +1,7 @@
 # TPO-testing
 
-
 ## nombre de equipo
-- equipo
+- Dream Team
 
 ## integrantes
 - Agustin Aused
