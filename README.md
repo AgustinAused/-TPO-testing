@@ -1,9 +1,6 @@
 # TPO-testing
 
-## nombre de equipo
-- Dream Team
-
-## integrantes
+## Dream Team
 - Agustin Aused
 - Pedro Esteban
 - Axel Gaggino
