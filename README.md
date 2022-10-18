@@ -1,6 +1,6 @@
 # TPO-testing
 
-## Dream Team
+## KOKUN
 - Agustin Aused
 - Pedro Esteban
 - Axel Gaggino
